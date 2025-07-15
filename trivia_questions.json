@@ -1,0 +1,124 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "opciones": [
+        "Londres",
+        "Berlín",
+        "París",
+        "Madrid"
+      ],
+      "respuesta_correcta": 2,
+      "categoria": "Geografia"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "opciones": [
+        "1914",
+        "1918",
+        "1939",
+        "1945"
+      ],
+      "respuesta_correcta": 0,
+      "categoria": "Historia"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": [
+        "Tierra",
+        "Marte",
+        "Júpiter",
+        "Saturno"
+      ],
+      "respuesta_correcta": 2,
+      "categoria": "Ciencia"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Miguel Ángel"
+      ],
+      "respuesta_correcta": 2,
+      "categoria": "Arte"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es el elemento químico más abundante en el universo?",
+      "opciones": [
+        "Oxígeno",
+        "Carbono",
+        "Hidrógeno",
+        "Helio"
+      ],
+      "respuesta_correcta": 2,
+      "categoria": "Ciencia"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿En qué año se fundó Google?",
+      "opciones": [
+        "1995",
+        "1998",
+        "2000",
+        "2004"
+      ],
+      "respuesta_correcta": 1,
+      "categoria": "Tecnologia"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es el deporte nacional de Japón?",
+      "opciones": [
+        "Fútbol",
+        "Béisbol",
+        "Sumo",
+        "Tenis"
+      ],
+      "respuesta_correcta": 2,
+      "categoria": "Deportes"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "opciones": [
+        "Miguel de Cervantes",
+        "Federico García Lorca",
+        "Gabriel García Márquez",
+        "Pablo Neruda"
+      ],
+      "respuesta_correcta": 0,
+      "categoria": "Literatura"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "opciones": [
+        "156",
+        "206",
+        "256",
+        "306"
+      ],
+      "respuesta_correcta": 1,
+      "categoria": "Ciencia"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cuál es la moneda oficial de Brasil?",
+      "opciones": [
+        "Peso",
+        "Real",
+        "Dólar",
+        "Euro"
+      ],
+      "respuesta_correcta": 1,
+      "categoria": "Geografia"
+    }
+  ]
+} 
