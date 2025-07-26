@@ -5,6 +5,7 @@ def cargar_preguntas(file_name):
     try:
         with open(file_name, 'r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
+            
             return datos['preguntas']
     except FileNotFoundError:
         print(f"Error: No se encontró el archivo '{file_name}'")
