@@ -75,7 +75,7 @@ def main():
     # Variables para el puntaje
     puntaje = 0
     total_preguntas = len(preguntas)
-    
+    print(f"Total de preguntas: {total_preguntas}")
     # Mostrar todas las preguntas y validar respuestas
     for pregunta in preguntas:
         if mostrar_pregunta(pregunta):
